@@ -25,4 +25,4 @@ jobs:
       - name: test packages
         env:
           CI: true
-        run: yarn test:ci
+        run: yarn test
