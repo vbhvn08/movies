@@ -14,7 +14,7 @@ export const MovieDetail = ({
   Writer,
 }: MovieInfo) => {
   return (
-    <div className="card mb-3">
+    <div className="card mb-3" data-testid="movie-detail">
       <div className="row g-0">
         <div className="col-md-6 col-sm-12">
           <img
