@@ -21,7 +21,7 @@ export const SearchBox = ({
         <DebounceInput
           className="form-control"
           minLength={2}
-          debounceTimeout={300}
+          debounceTimeout={500}
           placeholder="Type to search..."
           onChange={(event) => setSearchValue(event.target.value)}
         />

@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Movies
+> Movies app using omd api to display movie information
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cf0bfc3a-ccb3-4ad4-8a91-873837377ea9/deploy-status)](https://app.netlify.com/sites/happy-lamport-1aed65/deploys)
+
+Built with react and uses yarn as package manager
 
 ## Available Scripts
 
